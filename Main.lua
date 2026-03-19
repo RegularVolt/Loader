@@ -1,12 +1,12 @@
--- Made with <3 by Nyxora Hub
+-- loader
 local Players = game:GetService("Players")
 local HttpService = game:GetService("HttpService")
 local StarterGui = game:GetService("StarterGui")
 
 local Games = {
-    [9426795465] = {  -- SR
-        Name = "Slap Royale",
-        Url = "https://raw.githubusercontent.com/RegularVolt/Volt/refs/heads/main/Slap%20Royale/Script.lua"
+    [9431156611] = {  -- SR
+        Name = "Arsenal",
+        Url = "https://raw.githubusercontent.com/RegularVolt/Volt/refs/heads/main/Arsenal/Script.lua"
     },
 
     [2413927524] = {  -- The Rake Remastered
