@@ -5,7 +5,7 @@ local StarterGui = game:GetService("StarterGui")
 
 local Games = {
     [9431156611] = {  -- SR
-        Name = "Arsenal",
+        Name = "Slap Royale",
         Url = "https://raw.githubusercontent.com/RegularVolt/Volt/refs/heads/main/Slap%20Royale/Script.lua"
     },
 
