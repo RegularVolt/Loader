@@ -6,7 +6,7 @@ local StarterGui = game:GetService("StarterGui")
 local Games = {
     [9431156611] = {  -- SR
         Name = "Arsenal",
-        Url = "https://raw.githubusercontent.com/RegularVolt/Volt/refs/heads/main/Arsenal/Script.lua"
+        Url = "https://raw.githubusercontent.com/RegularVolt/Volt/refs/heads/main/Slap%20Royale/Script.lua"
     },
 
     [2413927524] = {  -- The Rake Remastered
